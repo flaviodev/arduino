@@ -1,4 +1,4 @@
-
+// reset counter
 uint8_t resetCounter __attribute__ ((section (".noinit")));
 
 #define redLedTrafficLightA 2 
